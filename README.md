@@ -49,8 +49,14 @@ Developed by: Haresh R
 RegisterNumber:24901004
 
 **RTL Schematic**
+![Screenshot 2024-12-13 234113](https://github.com/user-attachments/assets/b8e66809-92a2-4b08-ba11-f62ff30dce2a)
+![Screenshot 2024-12-13 234130](https://github.com/user-attachments/assets/a726312c-fe4a-40a5-a52a-c8af2f4a4a5a)
+
+
 
 **Output Timing Waveform**
+![Screenshot 2024-12-13 234216](https://github.com/user-attachments/assets/7993ce46-7b5c-427e-8b0d-92a201c26b7d)
+![Screenshot 2024-12-13 234229](https://github.com/user-attachments/assets/db8a5e5e-9f08-4dde-99b7-78d996d11507)
 
 **Result:**
 
